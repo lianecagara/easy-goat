@@ -1,0 +1,18 @@
+{
+  "name": "easy-goat",
+  "version": "1.0.0",
+  "description": "A utility for simplifying GoatbotV2 messenger chatbot handling.",
+  "main": "index.js",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Liane Cagara",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "messenger",
+    "GoatbotV2",
+    "easy-goat"
+  ]
+}
