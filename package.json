@@ -1,6 +1,6 @@
 {
   "name": "easy-goat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A utility for simplifying GoatbotV2 messenger chatbot handling.",
   "main": "index.js",
   "exports": "./index.js",

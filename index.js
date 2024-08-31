@@ -10,7 +10,7 @@ function isObject(value) {
   return value && typeof value === 'object' && !Array.isArray(value);
 }
 
-async function EasyGoat(ctx = {}) {
+function EasyGoat(ctx = {}) {
   if (isString(ctx)) {
     ctx = { text: ctx };
   } else if (isFunction(ctx)) {
